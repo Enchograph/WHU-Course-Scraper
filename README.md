@@ -19,7 +19,7 @@
 3. 使用
 
    ```bash
-   python scrape_course_table.py
+   python 武大教务网站课表爬取.py
    ```
 
 4. 若程序无法运行：
